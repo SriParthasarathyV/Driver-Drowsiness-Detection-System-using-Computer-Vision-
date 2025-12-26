@@ -1,5 +1,5 @@
 # Driver-Drowsiness-Detection-System-using-Computer-Vision-
-# Driver Drowsiness Detection System using Computer Vision and Deep Learning
+
 
 ## 📌 Project Overview
 Driver drowsiness is one of the major causes of road accidents worldwide. This project presents an **AI-based Driver Drowsiness Detection System** that continuously monitors a driver’s facial features and eye movements in real time to detect signs of fatigue and drowsiness.  
